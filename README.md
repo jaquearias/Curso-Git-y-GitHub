@@ -1,2 +1,2 @@
 # Cursos
-Proyectos de práctica que he realizado en cursos.
+Proyecto de práctica que he realizado en el curso.
